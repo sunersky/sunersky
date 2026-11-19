@@ -1,134 +1,72 @@
-# 👋 你好，我是Zo
+# Zo · ZoTech Studio
 
-## 🚀 关于我
+**独立软件开发与视觉设计工作室主理人** · Independent Software Development & Visual Design Studio Lead
 
-我是一名**全栈工程师**和**自由职业者**，专注于量化交易系统、IoT监测平台、企业级应用开发和技术解决方案。拥有丰富的多技术栈项目经验，从量化交易机器人到工业监测系统，从Web应用到桌面工具，致力于为客户提供高质量的技术服务。
-
-## 💼 核心专长
-
-- **量化交易系统** - 券商API集成、策略回测、风险控制、实时交易
-- **IoT监测平台** - 传感器数据采集、实时监控、预警系统、数据分析
-- **全栈Web开发** - 前后端分离架构、API设计、数据库优化、部署运维
-- **桌面应用开发** - GUI工具、自动化脚本、跨平台打包发布
-- **DevOps工程** - CI/CD流水线、Docker容器化、云服务部署
-
-## 🛠️ 技术栈
-
-### 后端开发
-- **Python**: FastAPI, Django/DRF, Flask, Pandas, PyInstaller
-- **Node.js**: AdonisJS, Express, WebSocket, MQTT, SerialPort
-- **Java**: Maven, SDK封装, 事件监听系统
-- **数据库**: PostgreSQL, MySQL, InfluxDB, Redis, SQLite
-
-### 前端开发
-- **React**: TypeScript, Hooks, 状态管理
-- **Vue.js**: Vue3, Element Plus, 响应式设计
-- **桌面GUI**: Tkinter, PyQt, CustomTkinter
-
-### 交易与金融
-- **券商API**: OKX API, Longbridge OpenAPI, MetaTrader 5
-- **量化工具**: 策略回测, 风险控制, 实时数据流
-- **Discord集成**: 交易信号监听, 自动化交易确认
-
-### IoT与监测
-- **通信协议**: Modbus TCP/RTU, MQTT, WebSocket, SerialPort
-- **时序数据库**: InfluxDB 2.x, 数据可视化
-- **传感器集成**: 多设备数据采集, 实时监控
-
-### DevOps与部署
-- **容器化**: Docker, Docker Compose
-- **CI/CD**: Jenkins, GitLab CI, 自动化部署
-- **云服务**: 腾讯云, AWS, 阿里云
-- **监控**: 日志管理, 健康检查, 性能优化
-
-## 🌟 服务范围
-
-### 量化交易系统
-- **交易机器人开发** - Discord信号监听、券商API集成、自动化交易
-- **策略回测平台** - 历史数据回测、风险分析、性能评估
-- **风控系统** - 实时监控、阈值预警、资金管理
-- **数据采集** - 行情数据、财务数据、新闻情感分析
-
-### IoT监测平台
-- **工业监测系统** - 传感器数据采集、设备状态监控
-- **实时数据可视化** - 图表展示、历史查询、对比分析
-- **预警系统** - 阈值设置、异常检测、通知推送
-- **数据存储** - 时序数据库设计、数据归档、查询优化
-
-### 企业级应用
-- **Web应用开发** - 前后端分离、API设计、数据库优化
-- **桌面工具开发** - GUI应用、自动化脚本、跨平台打包
-- **系统集成** - 第三方API对接、数据同步、业务流程优化
-- **DevOps服务** - CI/CD流水线、容器化部署、监控运维
-
-### 技术咨询
-- **架构设计** - 系统架构、技术选型、性能优化
-- **代码审查** - 代码质量评估、最佳实践建议
-- **技术培训** - 团队技能提升、技术方案指导
-
-## 🎯 项目展示
-
-### 量化交易系统
-- **[OKX量化交易系统](https://github.com/sunersky/okx_quant_bot)** - FastAPI + React/TS全栈架构，集成OKX API，提供策略管理、回测、交易终端
-- **[Discord量化机器人](https://github.com/sunersky/discord_quant_bot)** - 监听Discord信号，Longbridge API集成，支持Paper/Live模式
-- **[MT5跟单系统](https://github.com/sunersky/mt5_trade_copier)** - MetaTrader5同步交易，GUI界面，PyInstaller打包发布
-
-### IoT监测平台
-- **[伺服电机监测系统](https://github.com/sunersky/cbmsystem)** - Modbus数据采集，InfluxDB存储，实时图表和历史对比
-- **[隧道结构监测](https://github.com/sunersky/project)** - Node.js + WebSocket，多传感器集成，实时预警系统
-
-### Web应用开发
-- **[桌游辅助工具](https://github.com/sunersky/boardgame-assistant)** - React + TypeScript，离线优先设计，支持骰子、地图、技能管理
-- **[实验室预约平台](https://github.com/sunersky/robot_warehouses)** - Django + Vue3，设备管理、实时占用、自动审批
-- **[儿童学习平台](https://github.com/sunersky/kiddo)** - Django + PostgreSQL，多维度检索，全文搜索
-
-### 桌面工具
-- **[自动鼠标点击器](https://github.com/sunersky/clickm)** - Python GUI，定时控制，随机化参数，PyInstaller打包
-- **[Chrome DevTools MCP](https://github.com/sunersky/chrome-devtools-mcp)** - 浏览器自动化工具，性能分析，调试支持
-
-### DevOps与工程
-- **[CI/CD系统](https://github.com/sunersky/cicd)** - 腾讯云外包项目，多技术栈支持，自动化部署
-- **[A股数据归档](https://github.com/sunersky/PyStock)** - 高并发数据抓取，多线程优化，LRU缓存策略
-
-## 📈 工作方式
-
-- **敏捷开发** - 采用敏捷方法论，快速迭代
-- **透明沟通** - 定期汇报项目进度，保持客户知情
-- **质量保证** - 严格的代码审查和测试流程
-- **持续学习** - 紧跟技术发展趋势，不断提升技能
-
-## 🤝 合作流程
-
-1. **需求分析** - 深入了解项目需求和目标
-2. **方案设计** - 制定详细的技术方案和时间计划
-3. **开发实施** - 按照既定计划进行开发
-4. **测试交付** - 全面测试后交付高质量产品
-5. **后续支持** - 提供持续的技术支持和维护
-
-## 📞 联系方式
-
-- **GitHub**: [@sunersky](https://github.com/sunersky)
-- **项目咨询**: 欢迎通过GitHub Issues联系
-- **技术交流**: 欢迎查看我的项目代码和文档
-
-## 💡 为什么选择我？
-
-- ✅ **丰富的项目经验** - 涵盖量化交易、IoT监测、Web应用等多个领域
-- ✅ **全栈技术能力** - 从前端到后端，从桌面到云端，提供完整解决方案
-- ✅ **工程化实践** - 注重代码质量、文档完善、测试覆盖、部署自动化
-- ✅ **专业领域深度** - 在量化交易和IoT监测领域有深入的技术积累
-- ✅ **灵活的合作方式** - 适应不同的项目需求和时间安排
-- ✅ **持续学习能力** - 紧跟技术发展趋势，不断提升技能水平
-
-## 🎯 专业领域
-
-- **量化交易系统** - 券商API集成、策略开发、风险控制、回测平台
-- **IoT监测平台** - 传感器集成、实时监控、数据分析、预警系统
-- **企业级应用** - Web应用、桌面工具、系统集成、DevOps服务
-- **技术咨询** - 架构设计、技术选型、代码审查、团队培训
+[中文官网](https://zo-tech.work/profile/) · [English Site](https://zo-tech.work/profile/index-en.html) · [Telegram @ZoTechWork](https://t.me/ZoTechWork) · [Email](mailto:izo.xue@gmail.com)
 
 ---
 
-**准备好开始你的下一个项目了吗？** 让我们一起创造出色的技术解决方案！
+## 关于 ZoTech Studio
 
-⭐ 如果我的工作对你有帮助，请给这个仓库点个星！
+**ZoTech Studio** 是一家独立设计与开发工作室，累计交付 **150+ 项目**，覆盖网站、App、微信小程序、业务后台、Windows 桌面软件、智能设备 / IoT 软硬件对接，以及界面设计与数字美术。
+
+- **主理人直连**：不设销售与层层转包，需求沟通、界面设计与核心开发均由主理人 Zo 直接推进。
+- **源码与文档全交**：Git 代码仓库、设计源文件、部署说明与接口文档按约定全套移交，不绑定后续维护。
+- **分阶段确认**：常见定制通常 **2–8 周** 交付，先确认功能清单、报价与排期再开工，分段验收。
+- **合作方式灵活**：支持整包交付、单独委托设计与美术，或接手已有系统评估改造；支持签订正规项目合同与约定质保。
+
+> *ZoTech Studio is an independent studio led directly by Zo. We build websites, mobile apps, WeChat mini programs, business dashboards, Windows desktop software, smart-device / IoT integrations, UI systems and digital artwork — typically shipping custom builds in 2–8 weeks with full source and design handover.*
+
+---
+
+## 核心服务 / What We Do
+
+| 方向 | 服务内容 | 典型交付 |
+| :--- | :--- | :--- |
+| **软件开发** | 网站、App、微信小程序、业务后台、Windows 桌面软件，以及已有系统的功能扩展与接口对接 | 网站与小程序 · 移动 App · 业务系统 · 桌面软件 |
+| **设计与美术** | 界面设计、产品展示图、数字美术与交互素材；支持单独委托设计或配套开发交付 | UI 设计 · 产品展示图 · 数字美术 · 交互素材 |
+| **智能设备与交互** | 涂鸦智能家居面板与 OpenMQ、BLE 蓝牙设备控制与 DFU 固件升级，以及 Web 3D / GIS 可视化 | 涂鸦智能家居 · 蓝牙与 IoT · Web 3D · GIS 可视化 |
+
+---
+
+## 精选案例 / Selected Work
+
+> 商业客户项目源码按保密协议保留在私有仓库；以下为官网公开展示的部分代表案例：
+
+- **[慧动银龄](https://zo-tech.work/profile/#project-health)**（*上海交通大学医学院 · 健康研究*）— 科研手环配套 Android App、研究人员管理后台与 API（Kotlin · Jetpack Compose · Vue · NestJS）
+- **[消防装备与智能门禁](https://zo-tech.work/profile/#project-equipment)**（*丽江市消防救援支队*）— Web 后台、Android 双端与 Windows 客户端，扫码库存巡检、三维库室与涂鸦门锁/门铃 OpenMQ 审批（React · Express · React Native · Electron · Tuya IoT）
+- **[ARC / BigRock 蓝牙设备 App](https://zo-tech.work/profile/#project-arc)** — 蓝牙硬件 Android / iOS 客户端，完成 BLE 通信、设备控制与 DFU 固件升级联调（Vue · uni-app · Bluetooth LE · DFU）
+- **[纺织生产管理系统](https://zo-tech.work/profile/#project-textile)** — 工厂车间 Windows 桌面客户端与厂内服务端重构，打通订单、工艺、布票、验布、仓储与扫码打印（Electron · Node.js · PostgreSQL）
+- **[涂鸦智能家居 · 温控面板](https://zo-tech.work/profile/#project-smarthome)** — 基于 Tuya Ray 的自定义温控器面板、设备 DP 数据适配与多语言界面
+- **[CAD 3D 扫码看图](https://zo-tech.work/profile/#project-cad)** — DWG / DXF 图纸转移动端 Web 3D 交互模型，支持扫码查看与门板/抽屉交互
+- **[公共卫生 GIS 监测平台](https://zo-tech.work/profile/#project-gis)**（*湖南省血吸虫病防治所*）— 区域地图监测、数据在线填报与异常预警后台
+
+更多案例（废旧电池回收平台、Luna 双端服务 App、同桌酒馆小程序、ZoTech 产品授权平台、网站模板与 CMS Core、跨平台商品复制助手）请访问官网查看：**[zo-tech.work/profile/](https://zo-tech.work/profile/)**
+
+---
+
+## 常用技术 / Technologies
+
+- **前端与 Web**：TypeScript, JavaScript, Vue, React, Vite, Pinia, Redux, Element Plus, Three.js, WebGL
+- **移动与桌面**：Kotlin, Jetpack Compose, React Native, Expo, Flutter, uni-app, Taro, 微信小程序, Electron
+- **后端与数据**：Node.js, NestJS, Express, Python, C# / .NET, PHP, PostgreSQL, MongoDB, Redis, Prisma, WebSocket
+- **智能设备 / IoT**：Bluetooth LE, DFU, Tuya IoT, Tuya Ray, Tuya OpenMQ
+- **部署与测试**：Docker, Nginx, Linux, Git, Playwright, Vitest, Jest
+
+---
+
+## 合作流程 / How We Work
+
+1. **W1 · 沟通需求** — 明确使用场景、目标功能与期望时间，有资料或参考链接可直接发来。
+2. **W2 · 确认方案** — 对齐功能清单、设计方向、报价与排期。
+3. **W3–5 · 设计开发** — 分阶段交付设计稿与可运行版本，及时确认与调整。
+4. **W6 · 验收交付** — 按约定完成测试、部署、源码与设计文件交接，明确后续质保与维护范围。
+
+---
+
+## 项目合作与联系 / Contact
+
+- **微信（最快回复）**：ZoTechClub
+- **邮箱**：[izo.xue@gmail.com](mailto:izo.xue@gmail.com)
+- **Telegram**：[@ZoTechWork](https://t.me/ZoTechWork)
+- **官网**：[https://zo-tech.work/profile/](https://zo-tech.work/profile/)（[English](https://zo-tech.work/profile/index-en.html)）
